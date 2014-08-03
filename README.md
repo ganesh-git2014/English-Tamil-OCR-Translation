@@ -7,7 +7,7 @@ This is an Android app which allows the users to capture an image or choose one 
 textual data in the image in English, to Tamil unicode text and displays it to the users.
 
 
-This is to help Tamilians (people who speak Tamil) who have insufficient understanding of English to be able to communicate better by helping them transalate the world around them.
+This is to help those people who only know and speak Tamil and have insufficient understanding of English to be able to communicate better by helping them transalate the world around them.
 
 ===========================
 
