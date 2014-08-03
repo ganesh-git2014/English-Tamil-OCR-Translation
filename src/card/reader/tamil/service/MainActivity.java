@@ -52,7 +52,7 @@ public class MainActivity extends Activity implements OnClickListener,AsyncRespo
 	boolean take_picture=false;
 	
 	RequestTask asyncTask;
-	private String apiKey="skEy7a7r3D";
+	private String apiKey="";
 	private String langCode="en";
 	private String fileName;
 	String convertedText="World";
